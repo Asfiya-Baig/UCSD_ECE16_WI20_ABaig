@@ -10,4 +10,5 @@ Edited on local repo
 
 Edited on remote repo
 
-Merge conflict local
+
+Merge conflict local Merge Conflict using remote
