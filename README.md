@@ -10,3 +10,4 @@ Edited on local repo
 
 Edited on remote repo
 
+Merge Conflict using remote
